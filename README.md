@@ -60,8 +60,8 @@ https://siads521-assignment3-yva6skjxefwgnjkuv2n9we.streamlit.app/
 https://youtu.be/aAUtAb46HP0
 
 ## Notebooks
-notebooks/assignment3_notebook.ipynb
-
+[notebooks/assignment3_notebook.ipynb
+](https://github.com/gwc-creator/siads521-assignment3/blob/main/notebooks_assignment3_notebook.ipynb.ipynb)
 
 ## How to Run Locally
 ```bash
