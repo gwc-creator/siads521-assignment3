@@ -51,13 +51,21 @@ The cleaned dataset was prepared by:
 - `data/vgsales_clean.csv` – cleaned dataset
 - `data/vgsales_raw.csv` – original dataset
 
-## Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
+## LINKS
 
 ## Dashboard Link
 https://siads521-assignment3-yva6skjxefwgnjkuv2n9we.streamlit.app/
 
-## Video Demo
+## Video Demo Link
+https://youtu.be/aAUtAb46HP0
+
+## Notebooks
+notebooks/assignment3_notebook.ipynb
+
+
+## How to Run Locally
+```bash
+git clone https://github.com/gwc-creator/siads521-assignment3.git
+cd siads521-assignment3
+pip install -r requirements.txt
+streamlit run app.py
